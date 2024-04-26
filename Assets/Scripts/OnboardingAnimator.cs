@@ -4,9 +4,6 @@ using UnityEngine;
 using DG.Tweening;
 using UnityEngine.UI;
 
-using UnityEngine;
-using DG.Tweening;
-
 public class OnboardingAnimator : MonoBehaviour
 {
     public RectTransform[] panels; // Array of RectTransforms for the panels
@@ -62,4 +59,5 @@ public class OnboardingAnimator : MonoBehaviour
                     });
             });
     }
+
 }
