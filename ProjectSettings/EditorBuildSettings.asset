@@ -15,7 +15,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Home.unity
     guid: 96e7b19e5d15fe746a78eb0b0a7be90a
   - enabled: 1
-    path: Assets/Scenes/Welcome.unity
+    path: Assets/Scenes/Get Ready.unity
     guid: 2607915c4d50041478cd34558a35c839
   - enabled: 1
     path: Assets/Scenes/Comp.unity
@@ -26,5 +26,11 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Team.unity
     guid: 04afcadd8161f9745b9e804f7289bf0b
+  - enabled: 1
+    path: Assets/Scenes/Countdown.unity
+    guid: 1bfc0dcd166a94a4d9abeda258759d47
+  - enabled: 1
+    path: Assets/Scenes/Challenge.unity
+    guid: 51600075701654940837609264c19f88
   m_configObjects:
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: ebbd1e61d8da7ae409bad06254e1f3b2, type: 2}
