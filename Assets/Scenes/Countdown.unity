@@ -525,4 +525,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   countdownText: {fileID: 737879988}
-  nextSceneName: Home
+  nextSceneName: Geolocation
